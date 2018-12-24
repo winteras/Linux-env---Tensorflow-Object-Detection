@@ -1,0 +1,50 @@
+<annotation>
+	<folder>training</folder>
+	<filename>DSC_1896.JPG</filename>
+	<path>C:\Users\user\Desktop\training\DSC_1896.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>restructured meat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1437</xmin>
+			<ymin>967</ymin>
+			<xmax>2179</xmax>
+			<ymax>1577</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>restructured meat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3271</xmin>
+			<ymin>997</ymin>
+			<xmax>3840</xmax>
+			<ymax>1609</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>restructured meat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>979</ymin>
+			<xmax>721</xmax>
+			<ymax>1662</ymax>
+		</bndbox>
+	</object>
+</annotation>

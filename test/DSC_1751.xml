@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>DSC_1751.JPG</filename>
+	<path>C:\Users\user\Desktop\test\DSC_1751.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>restructured meat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>226</ymin>
+			<xmax>1468</xmax>
+			<ymax>1462</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>restructured meat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2100</xmin>
+			<ymin>305</ymin>
+			<xmax>3292</xmax>
+			<ymax>1541</ymax>
+		</bndbox>
+	</object>
+</annotation>

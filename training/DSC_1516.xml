@@ -1,0 +1,38 @@
+<annotation>
+	<folder>肉2</folder>
+	<filename>DSC_1516.JPG</filename>
+	<path>C:\Users\USER\Desktop\肉2\DSC_1516.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>restructured meat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>486</xmin>
+			<ymin>485</ymin>
+			<xmax>1402</xmax>
+			<ymax>1546</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>restructured meat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2218</xmin>
+			<ymin>561</ymin>
+			<xmax>3600</xmax>
+			<ymax>1556</ymax>
+		</bndbox>
+	</object>
+</annotation>
