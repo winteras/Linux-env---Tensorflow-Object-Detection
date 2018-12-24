@@ -1,13 +1,13 @@
 <annotation>
-	<folder>肉2</folder>
-	<filename>DSC_1266.JPG</filename>
-	<path>C:\Users\USER\Desktop\肉2\DSC_1266.JPG</path>
+	<folder>肉</folder>
+	<filename>DSC_1266.jpg</filename>
+	<path>C:\Users\USER\Desktop\肉\DSC_1266.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3840</width>
-		<height>2160</height>
+		<width>960</width>
+		<height>540</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>189</xmin>
-			<ymin>527</ymin>
-			<xmax>1905</xmax>
-			<ymax>1348</ymax>
+			<xmin>38</xmin>
+			<ymin>126</ymin>
+			<xmax>490</xmax>
+			<ymax>357</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2171</xmin>
-			<ymin>425</ymin>
-			<xmax>3705</xmax>
-			<ymax>1467</ymax>
+			<xmin>560</xmin>
+			<ymin>108</ymin>
+			<xmax>927</xmax>
+			<ymax>388</ymax>
 		</bndbox>
 	</object>
 </annotation>

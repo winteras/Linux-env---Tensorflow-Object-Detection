@@ -1,16 +1,40 @@
 <annotation>
 	<folder>training</folder>
-	<filename>DSC_1605.JPG</filename>
-	<path>C:\Users\user\Desktop\training\DSC_1605.JPG</path>
+	<filename>DSC_1605.jpg</filename>
+	<path>C:\Users\user\Desktop\training\DSC_1605.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3840</width>
-		<height>2160</height>
+		<width>960</width>
+		<height>540</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
+	<object>
+		<name>restructured meat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>492</xmin>
+			<ymin>24</ymin>
+			<xmax>665</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>restructured meat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>44</ymin>
+			<xmax>390</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
 	<object>
 		<name>restructured meat</name>
 		<pose>Unspecified</pose>
@@ -18,33 +42,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>440</ymin>
-			<xmax>595</xmax>
-			<ymax>1422</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>restructured meat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>700</xmin>
-			<ymin>172</ymin>
-			<xmax>1574</xmax>
-			<ymax>1048</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>restructured meat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1856</xmin>
-			<ymin>86</ymin>
-			<xmax>2724</xmax>
-			<ymax>1093</ymax>
+			<ymin>107</ymin>
+			<xmax>144</xmax>
+			<ymax>352</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,22 +53,22 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2520</xmin>
-			<ymin>1153</ymin>
-			<xmax>3388</xmax>
-			<ymax>2160</ymax>
+			<xmin>621</xmin>
+			<ymin>310</ymin>
+			<xmax>846</xmax>
+			<ymax>540</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>restructured meat</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>757</xmin>
-			<ymin>1143</ymin>
-			<xmax>1821</xmax>
-			<ymax>2160</ymax>
+			<xmin>183</xmin>
+			<ymin>280</ymin>
+			<xmax>441</xmax>
+			<ymax>539</ymax>
 		</bndbox>
 	</object>
 </annotation>

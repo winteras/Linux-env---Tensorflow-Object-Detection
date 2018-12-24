@@ -1,26 +1,26 @@
 <annotation>
 	<folder>training</folder>
-	<filename>DSC_1770.JPG</filename>
-	<path>C:\Users\user\Desktop\training\DSC_1770.JPG</path>
+	<filename>DSC_1770.jpg</filename>
+	<path>C:\Users\user\Desktop\training\DSC_1770.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3840</width>
-		<height>2160</height>
+		<width>960</width>
+		<height>540</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>restructured meat</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>847</xmin>
-			<ymin>76</ymin>
-			<xmax>3100</xmax>
-			<ymax>2138</ymax>
+			<xmin>187</xmin>
+			<ymin>30</ymin>
+			<xmax>790</xmax>
+			<ymax>540</ymax>
 		</bndbox>
 	</object>
 </annotation>

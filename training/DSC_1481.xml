@@ -1,13 +1,13 @@
 <annotation>
-	<folder>肉2</folder>
-	<filename>DSC_1481.JPG</filename>
-	<path>C:\Users\USER\Desktop\肉2\DSC_1481.JPG</path>
+	<folder>肉</folder>
+	<filename>DSC_1481.jpg</filename>
+	<path>C:\Users\USER\Desktop\肉\DSC_1481.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3840</width>
-		<height>2160</height>
+		<width>960</width>
+		<height>540</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>44</xmin>
-			<ymin>604</ymin>
-			<xmax>1371</xmax>
-			<ymax>1814</ymax>
+			<xmin>440</xmin>
+			<ymin>129</ymin>
+			<xmax>696</xmax>
+			<ymax>409</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1710</xmin>
-			<ymin>446</ymin>
-			<xmax>2652</xmax>
-			<ymax>1598</ymax>
+			<xmin>683</xmin>
+			<ymin>68</ymin>
+			<xmax>943</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>restructured meat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>1</ymin>
+			<xmax>560</xmax>
+			<ymax>65</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>restructured meat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>1</ymin>
+			<xmax>249</xmax>
+			<ymax>95</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,34 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2734</xmin>
-			<ymin>288</ymin>
-			<xmax>3794</xmax>
-			<ymax>1140</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>restructured meat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1139</xmin>
-			<ymin>17</ymin>
-			<xmax>2344</xmax>
-			<ymax>277</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>restructured meat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>10</xmin>
-			<ymin>14</ymin>
-			<xmax>1002</xmax>
-			<ymax>346</ymax>
+			<xmin>16</xmin>
+			<ymin>147</ymin>
+			<xmax>340</xmax>
+			<ymax>450</ymax>
 		</bndbox>
 	</object>
 </annotation>

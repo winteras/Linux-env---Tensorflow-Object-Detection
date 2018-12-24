@@ -1,13 +1,13 @@
 <annotation>
-	<folder>肉2</folder>
-	<filename>DSC_1480.JPG</filename>
-	<path>C:\Users\USER\Desktop\肉2\DSC_1480.JPG</path>
+	<folder>肉</folder>
+	<filename>DSC_1480.jpg</filename>
+	<path>C:\Users\USER\Desktop\肉\DSC_1480.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3840</width>
-		<height>2160</height>
+		<width>960</width>
+		<height>540</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>60</xmin>
-			<ymin>548</ymin>
-			<xmax>1300</xmax>
-			<ymax>1730</ymax>
+			<xmin>25</xmin>
+			<ymin>145</ymin>
+			<xmax>324</xmax>
+			<ymax>426</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1676</xmin>
-			<ymin>527</ymin>
-			<xmax>2742</xmax>
-			<ymax>1622</ymax>
+			<xmin>397</xmin>
+			<ymin>106</ymin>
+			<xmax>676</xmax>
+			<ymax>396</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2636</xmin>
-			<ymin>335</ymin>
-			<xmax>3668</xmax>
-			<ymax>1135</ymax>
+			<xmin>668</xmin>
+			<ymin>80</ymin>
+			<xmax>943</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>restructured meat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>1</ymin>
+			<xmax>245</xmax>
+			<ymax>91</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,22 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>52</xmin>
-			<ymin>4</ymin>
-			<xmax>1042</xmax>
-			<ymax>406</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>restructured meat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1168</xmin>
-			<ymin>27</ymin>
-			<xmax>2152</xmax>
-			<ymax>309</ymax>
+			<xmin>277</xmin>
+			<ymin>2</ymin>
+			<xmax>555</xmax>
+			<ymax>78</ymax>
 		</bndbox>
 	</object>
 </annotation>

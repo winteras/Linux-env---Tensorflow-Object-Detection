@@ -1,13 +1,13 @@
 <annotation>
 	<folder>test</folder>
-	<filename>DSC_1749.JPG</filename>
-	<path>C:\Users\user\Desktop\test\DSC_1749.JPG</path>
+	<filename>DSC_1749.jpg</filename>
+	<path>C:\Users\user\Desktop\test\DSC_1749.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3840</width>
-		<height>2160</height>
+		<width>960</width>
+		<height>540</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1405</xmin>
-			<ymin>962</ymin>
-			<xmax>2497</xmax>
-			<ymax>2085</ymax>
+			<xmin>359</xmin>
+			<ymin>248</ymin>
+			<xmax>618</xmax>
+			<ymax>522</ymax>
 		</bndbox>
 	</object>
 </annotation>

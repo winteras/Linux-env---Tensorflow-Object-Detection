@@ -1,13 +1,13 @@
 <annotation>
-	<folder>肉2</folder>
-	<filename>DSC_1360.JPG</filename>
-	<path>C:\Users\USER\Desktop\肉2\DSC_1360.JPG</path>
+	<folder>肉</folder>
+	<filename>DSC_1360.jpg</filename>
+	<path>C:\Users\USER\Desktop\肉\DSC_1360.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3840</width>
-		<height>2160</height>
+		<width>960</width>
+		<height>540</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1597</xmin>
-			<ymin>285</ymin>
-			<xmax>3529</xmax>
-			<ymax>2048</ymax>
+			<xmin>417</xmin>
+			<ymin>50</ymin>
+			<xmax>871</xmax>
+			<ymax>519</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>restructured meat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>104</ymin>
+			<xmax>125</xmax>
+			<ymax>475</ymax>
 		</bndbox>
 	</object>
 </annotation>

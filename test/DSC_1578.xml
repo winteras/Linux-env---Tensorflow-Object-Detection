@@ -1,38 +1,26 @@
 <annotation>
 	<folder>test</folder>
-	<filename>DSC_1578.JPG</filename>
-	<path>C:\Users\user\Desktop\test\DSC_1578.JPG</path>
+	<filename>DSC_1578.jpg</filename>
+	<path>C:\Users\user\Desktop\test\DSC_1578.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3840</width>
-		<height>2160</height>
+		<width>960</width>
+		<height>540</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>restructured meat</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>676</xmin>
-			<ymin>959</ymin>
-			<xmax>2050</xmax>
-			<ymax>2160</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>restructured meat</name>
-		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2089</xmin>
-			<ymin>577</ymin>
-			<xmax>3274</xmax>
-			<ymax>1562</ymax>
+			<xmin>524</xmin>
+			<ymin>146</ymin>
+			<xmax>817</xmax>
+			<ymax>397</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +29,22 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1532</xmin>
+			<xmin>167</xmin>
+			<ymin>239</ymin>
+			<xmax>514</xmax>
+			<ymax>540</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>restructured meat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
 			<ymin>1</ymin>
-			<xmax>2661</xmax>
-			<ymax>562</ymax>
+			<xmax>663</xmax>
+			<ymax>136</ymax>
 		</bndbox>
 	</object>
 </annotation>

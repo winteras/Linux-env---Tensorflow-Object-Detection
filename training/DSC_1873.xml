@@ -1,13 +1,13 @@
 <annotation>
 	<folder>training</folder>
-	<filename>DSC_1873.JPG</filename>
-	<path>C:\Users\user\Desktop\training\DSC_1873.JPG</path>
+	<filename>DSC_1873.jpg</filename>
+	<path>C:\Users\user\Desktop\training\DSC_1873.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3840</width>
-		<height>2160</height>
+		<width>960</width>
+		<height>540</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1584</xmin>
-			<ymin>350</ymin>
-			<xmax>3013</xmax>
-			<ymax>2093</ymax>
+			<xmin>402</xmin>
+			<ymin>81</ymin>
+			<xmax>742</xmax>
+			<ymax>533</ymax>
 		</bndbox>
 	</object>
 </annotation>

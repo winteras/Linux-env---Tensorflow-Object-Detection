@@ -1,0 +1,38 @@
+<annotation>
+	<folder>肉</folder>
+	<filename>DSC_1342.jpg</filename>
+	<path>C:\Users\USER\Desktop\肉\DSC_1342.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>restructured meat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>147</ymin>
+			<xmax>415</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>restructured meat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>567</xmin>
+			<ymin>94</ymin>
+			<xmax>956</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+</annotation>

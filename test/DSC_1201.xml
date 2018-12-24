@@ -1,38 +1,38 @@
 <annotation>
-	<folder>肉2</folder>
-	<filename>DSC_1201.JPG</filename>
-	<path>C:\Users\USER\Desktop\肉2\DSC_1201.JPG</path>
+	<folder>肉</folder>
+	<filename>DSC_1201.jpg</filename>
+	<path>C:\Users\USER\Desktop\肉\DSC_1201.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3840</width>
-		<height>2160</height>
+		<width>960</width>
+		<height>540</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>restructured meat</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1665</xmin>
-			<ymin>1</ymin>
-			<xmax>3739</xmax>
-			<ymax>1672</ymax>
+			<xmin>6</xmin>
+			<ymin>126</ymin>
+			<xmax>367</xmax>
+			<ymax>434</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>restructured meat</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>414</ymin>
-			<xmax>1447</xmax>
-			<ymax>1811</ymax>
+			<xmin>427</xmin>
+			<ymin>15</ymin>
+			<xmax>934</xmax>
+			<ymax>426</ymax>
 		</bndbox>
 	</object>
 </annotation>

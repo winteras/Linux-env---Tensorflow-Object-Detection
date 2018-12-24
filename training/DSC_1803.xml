@@ -1,13 +1,13 @@
 <annotation>
 	<folder>training</folder>
-	<filename>DSC_1803.JPG</filename>
-	<path>C:\Users\user\Desktop\training\DSC_1803.JPG</path>
+	<filename>DSC_1803.jpg</filename>
+	<path>C:\Users\user\Desktop\training\DSC_1803.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3840</width>
-		<height>2160</height>
+		<width>960</width>
+		<height>540</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1071</xmin>
-			<ymin>16</ymin>
-			<xmax>1732</xmax>
-			<ymax>487</ymax>
+			<xmin>276</xmin>
+			<ymin>6</ymin>
+			<xmax>429</xmax>
+			<ymax>115</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2146</xmin>
-			<ymin>530</ymin>
-			<xmax>2826</xmax>
-			<ymax>1067</ymax>
+			<xmin>542</xmin>
+			<ymin>131</ymin>
+			<xmax>676</xmax>
+			<ymax>269</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1284</xmin>
-			<ymin>446</ymin>
-			<xmax>1964</xmax>
-			<ymax>983</ymax>
+			<xmin>530</xmin>
+			<ymin>275</ymin>
+			<xmax>685</xmax>
+			<ymax>428</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>908</xmin>
-			<ymin>981</ymin>
-			<xmax>1588</xmax>
-			<ymax>1518</ymax>
+			<xmin>323</xmin>
+			<ymin>106</ymin>
+			<xmax>456</xmax>
+			<ymax>240</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,22 +65,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2074</xmin>
-			<ymin>1106</ymin>
-			<xmax>2754</xmax>
-			<ymax>1643</ymax>
+			<xmin>228</xmin>
+			<ymin>248</ymin>
+			<xmax>405</xmax>
+			<ymax>382</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>restructured meat</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1140</xmin>
-			<ymin>1489</ymin>
-			<xmax>1820</xmax>
-			<ymax>2026</ymax>
+			<xmin>283</xmin>
+			<ymin>380</ymin>
+			<xmax>456</xmax>
+			<ymax>540</ymax>
 		</bndbox>
 	</object>
 </annotation>

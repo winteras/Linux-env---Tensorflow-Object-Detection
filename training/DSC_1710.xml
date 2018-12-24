@@ -1,13 +1,13 @@
 <annotation>
 	<folder>training</folder>
-	<filename>DSC_1710.JPG</filename>
-	<path>C:\Users\user\Desktop\training\DSC_1710.JPG</path>
+	<filename>DSC_1710.jpg</filename>
+	<path>C:\Users\user\Desktop\training\DSC_1710.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3840</width>
-		<height>2160</height>
+		<width>960</width>
+		<height>540</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1732</xmin>
-			<ymin>474</ymin>
-			<xmax>2337</xmax>
-			<ymax>1041</ymax>
+			<xmin>432</xmin>
+			<ymin>125</ymin>
+			<xmax>578</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>restructured meat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>685</xmin>
+			<ymin>2</ymin>
+			<xmax>823</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>restructured meat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>324</ymin>
+			<xmax>192</xmax>
+			<ymax>484</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>restructured meat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>609</xmin>
+			<ymin>293</ymin>
+			<xmax>781</xmax>
+			<ymax>537</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,34 +65,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2693</xmin>
-			<ymin>1</ymin>
-			<xmax>3298</xmax>
-			<ymax>566</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>restructured meat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>71</xmin>
-			<ymin>1283</ymin>
-			<xmax>803</xmax>
-			<ymax>1939</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>restructured meat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2382</xmin>
-			<ymin>1215</ymin>
-			<xmax>3159</xmax>
-			<ymax>2159</ymax>
+			<xmin>875</xmin>
+			<ymin>131</ymin>
+			<xmax>960</xmax>
+			<ymax>235</ymax>
 		</bndbox>
 	</object>
 </annotation>

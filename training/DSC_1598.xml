@@ -1,13 +1,13 @@
 <annotation>
 	<folder>training</folder>
-	<filename>DSC_1598.JPG</filename>
-	<path>C:\Users\user\Desktop\training\DSC_1598.JPG</path>
+	<filename>DSC_1598.jpg</filename>
+	<path>C:\Users\user\Desktop\training\DSC_1598.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3840</width>
-		<height>2160</height>
+		<width>960</width>
+		<height>540</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>100</xmin>
-			<ymin>688</ymin>
-			<xmax>1161</xmax>
-			<ymax>1843</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>restructured meat</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2697</xmin>
-			<ymin>841</ymin>
-			<xmax>3840</xmax>
-			<ymax>1562</ymax>
+			<xmin>30</xmin>
+			<ymin>178</ymin>
+			<xmax>288</xmax>
+			<ymax>453</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1203</xmin>
-			<ymin>310</ymin>
-			<xmax>2321</xmax>
-			<ymax>1119</ymax>
+			<xmin>323</xmin>
+			<ymin>76</ymin>
+			<xmax>572</xmax>
+			<ymax>267</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +41,34 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2148</xmin>
+			<xmin>555</xmin>
 			<ymin>1</ymin>
-			<xmax>3205</xmax>
-			<ymax>588</ymax>
+			<xmax>754</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>restructured meat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>652</xmin>
+			<ymin>208</ymin>
+			<xmax>960</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>restructured meat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>465</xmin>
+			<ymin>424</ymin>
+			<xmax>721</xmax>
+			<ymax>540</ymax>
 		</bndbox>
 	</object>
 </annotation>
